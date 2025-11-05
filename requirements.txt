@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+streamlit
+fpdf
+python-dotenv
+typing-extensions
